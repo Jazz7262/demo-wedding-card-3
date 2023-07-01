@@ -10,14 +10,14 @@ function InviteNote() {
 
                 {/* <h5 className="address mb-3">Retd. Teacher and Pesh Imam</h5> */}
                 <h5 className="address mb-3">
-                    Residence: Opposite LLC Guest House, 
+                    Residence: Opposite LLC Guest House,
                     <br /> Sudha Coss, Bellari,
-                    <br /> Karnataka - 583 102.
+                    <br /> Karnataka - 5xx 102.
                 </h5>
                 <p className="address">
                     Contact: <br />
-                    +91 94837 86596, <br />
-                    +91 96202 93996.
+                    +91 948xx xx596, <br />
+                    +91 962xx xx996.
                 </p>
             </div>
         </section>

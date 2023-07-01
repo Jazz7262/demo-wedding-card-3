@@ -41,7 +41,7 @@
 
 #header .poster {
     /* border-radius: 50%; */
-    width: 40%;
+    width: 30%;
     margin-bottom: 7%;
 }
 
@@ -78,7 +78,7 @@
         padding: 17% 10%;
     }
     #header .poster {
-        width: 50%;
+        width: 40%;
         margin-bottom: 5%;
     }
     #header .text-wrapper {

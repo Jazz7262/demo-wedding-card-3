@@ -244,7 +244,7 @@ function Couple() {
                             <p className="mt-1 mt-lg-2">
                                 H.No.: 17-110/8, Kishan Singh Street,
                             </p> */}
-                            {/* <p className="mt-1 mt-lg-2">Bellari.</p> */}
+                            <p className="mt-1 mt-lg-2">Bellari.</p>
                             {/* <p className="mt-1 mt-lg-2">
                                 D/O <strong>Shaikh Nazeer Ahmed.</strong>
                             </p> */}
